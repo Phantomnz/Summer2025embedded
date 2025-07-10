@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+E:/ENTREPRENEURSHIP/summer2025embedded/Pico/build/CMakeFiles/picotoolBuild
+E:/ENTREPRENEURSHIP/summer2025embedded/Pico/build/CMakeFiles/picotoolBuild.rule
+E:/ENTREPRENEURSHIP/summer2025embedded/Pico/build/CMakeFiles/picotoolBuild-complete.rule
+E:/ENTREPRENEURSHIP/summer2025embedded/Pico/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+E:/ENTREPRENEURSHIP/summer2025embedded/Pico/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+E:/ENTREPRENEURSHIP/summer2025embedded/Pico/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+E:/ENTREPRENEURSHIP/summer2025embedded/Pico/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+E:/ENTREPRENEURSHIP/summer2025embedded/Pico/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+E:/ENTREPRENEURSHIP/summer2025embedded/Pico/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+E:/ENTREPRENEURSHIP/summer2025embedded/Pico/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+E:/ENTREPRENEURSHIP/summer2025embedded/Pico/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule

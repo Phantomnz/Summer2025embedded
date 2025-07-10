@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/CMakeFiles/picotoolBuild"
+		},
+		{
+			"file" : "E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/CMakeFiles/picotoolBuild.rule"
+		},
+		{
+			"file" : "E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/CMakeFiles/picotoolBuild-complete.rule"
+		},
+		{
+			"file" : "E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule"
+		},
+		{
+			"file" : "E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule"
+		},
+		{
+			"file" : "E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule"
+		},
+		{
+			"file" : "E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule"
+		},
+		{
+			"file" : "E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule"
+		},
+		{
+			"file" : "E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule"
+		},
+		{
+			"file" : "E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule"
+		},
+		{
+			"file" : "E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"picotoolBuild"
+		],
+		"name" : "picotoolBuild"
+	}
+}

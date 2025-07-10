@@ -1,0 +1,7 @@
+E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/_deps/picotool/picotool.exe
+E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/_deps/picotool/picotoolTargets.cmake
+E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/_deps/picotool/picotoolTargets-release.cmake
+E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/_deps/picotool/picotoolConfig.cmake
+E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/_deps/picotool/picotoolConfigVersion.cmake
+E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/_deps/picotool/enc_bootloader.elf
+E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/_deps/picotool/enc_bootloader_mbedtls.elf

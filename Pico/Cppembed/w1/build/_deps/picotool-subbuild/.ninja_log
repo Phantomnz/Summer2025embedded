@@ -1,0 +1,21 @@
+# ninja log v6
+1	28	7719550671984120	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-mkdir	255ab306c20056dc
+1	28	7719550671984120	E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-mkdir	255ab306c20056dc
+28	1223	7719550683934859	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-download	816b8f9345f80f31
+28	1223	7719550683934859	E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-download	816b8f9345f80f31
+1223	2056	7719550683965110	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-update	e050c075c184b746
+1223	2056	7719550683965110	E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-update	e050c075c184b746
+2058	2086	7719550692565162	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-patch	d265712da46c6575
+2058	2086	7719550692565162	E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-patch	d265712da46c6575
+2086	2112	7719550692836120	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-configure	a09e1860b341ebbd
+2086	2112	7719550692836120	E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-configure	a09e1860b341ebbd
+2113	2140	7719550693103454	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-build	e4411c9b73dd1e6d
+2113	2140	7719550693103454	E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-build	e4411c9b73dd1e6d
+2140	2166	7719550693375027	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-install	8a402aa9266ae4d2
+2140	2166	7719550693375027	E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-install	8a402aa9266ae4d2
+2166	2193	7719550693640990	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-test	51164d0238e0c8a1
+2166	2193	7719550693640990	E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-test	51164d0238e0c8a1
+2193	2230	7719550694005912	CMakeFiles/picotool-populate-complete	4cc0fd30adaca400
+2193	2230	7719550694005912	picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-done	4cc0fd30adaca400
+2193	2230	7719550694005912	E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate-complete	4cc0fd30adaca400
+2193	2230	7719550694005912	E:/ENTREPRENEURSHIP/summer2025embedded/Pico/Cppembed/w1/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-done	4cc0fd30adaca400
